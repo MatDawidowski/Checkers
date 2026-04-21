@@ -62,7 +62,4 @@ How to RUn the Project (Linux):
         ```bash
          mvn clean compile
          java -cp target/classes com.example.hellofx.Server
-        ```
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)        
+        ```   
